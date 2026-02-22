@@ -4,7 +4,7 @@ Jogo desenvolvido em Java inspirado no clássico jogo Dots and Boxes, com o obje
 
 ---
 
-## Funcionalidades:
+## Funcionalidades
 - Jogo por turnos entre dois jogadores
 - Desenho de linhas horizontais e verticais na grade
 - Sistema de detecção de caixas completas
@@ -12,7 +12,7 @@ Jogo desenvolvido em Java inspirado no clássico jogo Dots and Boxes, com o obje
 - Exibição da pontuação do jogador e da máquina
 - Vitória ou derrota ao final da partida
 
-## Tecnologias usadas:
+## Tecnologias usadas
 - Java (JDK 8 ou superior)
 - Gradle
 - LibGDX
@@ -43,7 +43,7 @@ lwjgl3/src/main/java/com/tp2/megamanx/lwjgl3/Lwjgl3Launcher.java
 
 ---
 
-## Como Jogar?
+## Como Jogar
 
 ### Regras
 - Quem completar a última aresta de um quadrado ganha um ponto
@@ -52,7 +52,7 @@ lwjgl3/src/main/java/com/tp2/megamanx/lwjgl3/Lwjgl3Launcher.java
 ### Controles
 - **🖱 Botão direito do mouse**: Conectar pontos adjacentes nas linhas horizontais ou verticais
 
-### Observações importantes:
+### Observações importantes
 - Execute o jogo somente em modo janela
 - Utilize a resolução recomendada de 800x500 pixels
 - Não utilize o modo tela cheia, pois pode ocorrer erro de escala gráfica
