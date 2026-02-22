@@ -41,11 +41,6 @@ lwjgl3/src/main/java/com/tp2/megamanx/lwjgl3/Lwjgl3Launcher.java
 ```
 5. Clique com o botão direito no arquivo e selecione Run ou Executar
 
-### Observações importantes:
-- Execute o jogo somente em modo janela
-- Utilize a resolução recomendada de 800x500 pixels
-- Não utilize o modo tela cheia, pois pode ocorrer erro de escala gráfica
-
 ---
 
 ## Como Jogar?
@@ -56,3 +51,8 @@ lwjgl3/src/main/java/com/tp2/megamanx/lwjgl3/Lwjgl3Launcher.java
 
 ### Controles
 - **🖱 Botão direito do mouse**: Conectar pontos adjacentes nas linhas horizontais ou verticais
+
+### Observações importantes:
+- Execute o jogo somente em modo janela
+- Utilize a resolução recomendada de 800x500 pixels
+- Não utilize o modo tela cheia, pois pode ocorrer erro de escala gráfica
