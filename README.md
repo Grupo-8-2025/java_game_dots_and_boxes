@@ -50,8 +50,9 @@ lwjgl3/src/main/java/com/tp2/megamanx/lwjgl3/Lwjgl3Launcher.java
 
 ## Como Jogar?
 
-### Objetivo
-Completar o maior número possível de caixas antes do fim da partida
+### Regras
+- Quem completar a última aresta de um quadrado ganha um ponto
+- Quem completar o maior número de caixas antes do fim da partida vence
 
 ### Controles
 - **🖱 Botão direito do mouse**: Conectar pontos adjacentes nas linhas horizontais ou verticais
