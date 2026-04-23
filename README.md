@@ -2,6 +2,10 @@
 
 Jogo desenvolvido em Java inspirado no clássico jogo Dots and Boxes, com o objetivo de reproduzir suas principais mecânicas de jogabilidade. Este projeto foi desenvolvido como trabalho prático da disciplina Linguagem e Técnicas de Programação 2 no curso técnico de informática do CEFET-MG, utilizando a biblioteca LibGDX para recursos gráficos e multimídia.
 
+![Dots and Boxes Inicial Screen](https://github.com/Grupo-8-2025/TrabalhoPratico1/blob/main/assets/Jogo-DotsAndBoxes%2025_05_2025%2019_16_01.png)
+![Dots and Boxes Game](https://github.com/Grupo-8-2025/TrabalhoPratico1/blob/main/assets/Jogo-DotsAndBoxes%2025_05_2025%2019_36_36.png)
+![Dots and Boxes Final Screen](https://github.com/Grupo-8-2025/TrabalhoPratico1/blob/main/assets/Jogo-DotsAndBoxes%2025_05_2025%2019_38_33.png)
+
 ---
 
 ## Funcionalidades
